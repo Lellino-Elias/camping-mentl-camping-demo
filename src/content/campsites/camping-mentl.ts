@@ -214,7 +214,7 @@ const campingMentl: CampsiteConfig = {
     images: [
       { src: `${IMG}/blick-ossiacher-see.webp`, alt: "Blick über den türkisen Ossiacher See" },
       { src: `${IMG}/ausblick-ferienwohnung.webp`, alt: "Seeblick vom Balkon einer Ferienwohnung am Seecamping Mentl" },
-      { src: `${IMG}/laufen-am-see.webp`, alt: "Laufen an der Uferpromenade des Ossiacher Sees" },
+      { src: `${IMG}/laufen-am-see.webp`, alt: "Rafting im klaren Gebirgswasser der Region Villach" },
       { src: `${IMG}/golf-region.webp`, alt: "Golfen mit Bergpanorama in der Region Villach" },
     ],
   },
